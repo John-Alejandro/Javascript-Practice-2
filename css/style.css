@@ -1,7 +1,11 @@
 .container {
     text-align: center;
     border: 3px solid #bebebe;
-    margin: 5px 95px 5px 95px;
+    margin: 10px auto;
     padding: 10px;
 }
 
+#signup {
+    max-width: 400px;
+    padding: 5px;
+}
