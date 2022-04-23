@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     border: 3px solid #bebebe;
-    margin: 10px auto;
+    margin: 10px 150px;
     padding: 10px;
 }
 
@@ -10,4 +10,11 @@
     max-width: 600px;
     padding: 5px;
     justify-content: center;
+}
+#name {
+    color: grey;
+}
+
+#email {
+    color: grey;
 }
