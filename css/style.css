@@ -2,8 +2,16 @@
     display: flex;
     justify-content: center;
     border: 3px solid #bebebe;
-    margin: 10px 150px;
+    margin: 10px 550px;
     padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+label {
+    color: blue;
 }
 
 #signup {
@@ -11,10 +19,16 @@
     padding: 5px;
     justify-content: center;
 }
-#name {
-    color: grey;
+
+input#name {
+    color: lightgrey;
 }
 
-#email {
-    color: grey;
+input#email {
+    color: lightgrey;
+}
+
+button {
+    background-color: blue;
+    color: white;
 }
