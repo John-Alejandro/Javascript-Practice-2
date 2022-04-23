@@ -1,11 +1,12 @@
 .container {
-    text-align: center;
+    display: flex;
+    justify-content: center;
     border: 3px solid #bebebe;
     margin: 10px auto;
     padding: 10px;
 }
 
 #signup {
-    max-width: 400px;
+    max-width: 600px;
     padding: 5px;
 }
