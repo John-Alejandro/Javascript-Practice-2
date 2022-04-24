@@ -4,6 +4,8 @@
     border: 3px solid #bebebe;
     margin: 10px 500px;
     padding: 10px;
+    background-color: lightgrey;
+
 }
 
 h1 {
@@ -35,4 +37,5 @@ button {
     background-color: blue;
     color: white;
     width: 200px;
+    margin-bottom: 25px;
 }
