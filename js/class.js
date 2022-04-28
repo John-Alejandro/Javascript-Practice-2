@@ -41,5 +41,5 @@ let meeting = {
     }
 };
 
-meeting.add('John').add('Jane').add('Peter');
+meeting.add('John').add('Jane').add('Peter').add('Jacob').add('Anne');
 console.log(`The latest attendee is ${meeting.latest}.`);
