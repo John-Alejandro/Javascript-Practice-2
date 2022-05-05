@@ -3,6 +3,9 @@ html {
 
 }
 
+.container-fluid {
+    background-color: grey;
+}
 header {
     display: flex;
     justify-content: center;
