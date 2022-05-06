@@ -49,5 +49,9 @@ button {
 }
 
 footer {
+    width: auto;
+    height: 50px;
     margin: 500px 0px 20px 0px;
+    padding: 15px;
+    background-color: grey;
 }
