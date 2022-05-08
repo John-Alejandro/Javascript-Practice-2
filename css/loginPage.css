@@ -58,9 +58,11 @@ label {
     color: white;
     font-size: 20px;
     text-align: center;
-
 }
 
+#image {
+    border: 440px solid black;
+}
 footer {
     width: auto;
     height: 50px;
