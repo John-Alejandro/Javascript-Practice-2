@@ -1,8 +1,17 @@
 body {
-    background-color: black;
-    display: flex;
+    background-image: url("https://media.istockphoto.com/photos/stars-light-motion-in-space-picture-id510216640?b=1&k=20&m=510216640&s=170667a&w=0&h=JJQkelqMo6YGHQllN_yAeF_LtXGCHAsEUblq4tu1P2Y=");
+    background-repeat: no-repeat;
+    background-size: cover ;
 }
 
 image {
-    justify-content: center;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+}
+
+img {
+    text-align: center;
+    width: auto;
+    height: auto;
 }
