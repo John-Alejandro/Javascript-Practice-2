@@ -3,3 +3,15 @@ body {
     background-repeat: no-repeat;
     background-size: cover ;
 }
+
+image {
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+img {
+    text-align: center;
+    width: auto;
+    height: auto;
+}
