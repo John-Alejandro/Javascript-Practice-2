@@ -8,10 +8,12 @@ image {
     text-align: center;
     width: auto;
     height: auto;
+
 }
 
 img {
     text-align: center;
     width: auto;
     height: auto;
+    opacity: 30%;
 }
