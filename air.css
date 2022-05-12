@@ -1,0 +1,21 @@
+body {
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: cover ;");
+}
+
+image {
+    text-align: center;
+    width: auto;
+    height: auto;
+    opacity: 15%;
+
+}
+
+img {
+    text-align: center;
+    width: auto;
+    height: auto;
+    opacity: 20%;
+
+}
