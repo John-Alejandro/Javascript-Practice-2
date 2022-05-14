@@ -1,6 +1,8 @@
-ul {
+#main-container {
     background-color: crimson;
     color: white;
+}
+ul {
     font-size: 50px;
     text-align: center;
     list-style-type: none;
