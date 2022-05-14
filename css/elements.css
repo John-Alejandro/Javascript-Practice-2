@@ -1,4 +1,7 @@
 ul {
+    background-color: crimson;
+    color: white;
+    font-size: 50px;
     text-align: center;
     list-style-type: none;
 }
