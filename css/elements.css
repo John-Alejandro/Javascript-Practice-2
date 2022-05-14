@@ -1,6 +1,7 @@
 #main-container {
     background-color: crimson;
     color: white;
+    height: 800px;
 }
 ul {
     font-size: 50px;
