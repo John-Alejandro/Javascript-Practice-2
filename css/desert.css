@@ -23,6 +23,8 @@
 
 body {
     background-color: black;
+    width: max-content;
+    height: auto;
 }
 .css-text-mask {
     text-align: center;
@@ -34,5 +36,5 @@ body {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: #0000;
-    background-repeat: no-repeat;
+    background-repeat: initial;
 }
