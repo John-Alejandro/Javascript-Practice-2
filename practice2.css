@@ -4,6 +4,7 @@ html {
 
 .main-container {
     display: flex;
+    margin-top: 50px;
     }
 .container_1 {
     flex: max-content;
