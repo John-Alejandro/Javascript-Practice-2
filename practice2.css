@@ -6,6 +6,7 @@ html {
     display: flex;
 }
 .container_1 {
+    flex: max-content;
     flex: right;
     box-sizing: border-box;
     width: 50px;
@@ -46,6 +47,7 @@ html {
 }
 
 .container_5 {
+    flex: max-content;
     box-sizing: border-box;
     width: 50px;
     height: 50px;
