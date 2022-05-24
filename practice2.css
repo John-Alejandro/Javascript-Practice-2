@@ -4,10 +4,10 @@ html {
 
 .main-container {
     display: flex;
-}
+    }
 .container_1 {
     flex: max-content;
-    flex: right;
+    float: right;
     box-sizing: border-box;
     width: 50px;
     height: 50px;
