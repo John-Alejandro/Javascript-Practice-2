@@ -10,7 +10,11 @@ html {
 
 .main-container {
     display: flex;
+    flex: max-content;
     margin-top: 50px;
+    height: 500px;
+    width: 500px;
+
     }
 .container_1 {
     flex: max-content;
