@@ -5,8 +5,8 @@ body {
 header {
     font-weight: bold;
     font-size: 50px;
-    color: crimson;
-    text-align: center;
+    color: #ceb940;
+    text-align: left;
     margin-top: 25px;
     text-emphasis-color: darkblue;
 }
