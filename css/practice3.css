@@ -15,3 +15,8 @@ header {
 .main-container {
     border: solid 10px black;
 }
+
+.main-section {
+    border: solid 10px gold;
+
+}
