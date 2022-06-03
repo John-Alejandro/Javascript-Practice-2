@@ -6,7 +6,7 @@ body {
 }
 header {
     font-weight: bold;
-    font-size: 50px;
+    font-size: 25px;
     color: #ecdc05;
     text-align: left;
     margin-top: 25px;
@@ -14,11 +14,11 @@ header {
 }
 
 .main-container {
-    border: solid 10px black;
+    border: solid 5px black;
 }
 
 .main-section {
-    border: solid 10px #ecdc05;
+    border: solid 5px #ecdc05;
 
 }
 
