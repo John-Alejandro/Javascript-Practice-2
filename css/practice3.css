@@ -1,5 +1,5 @@
 body {
-    /*width: max-content;*/
+    width: max-content;
     background-image: url("http://knightnews.com/wp-content/uploads/2022/05/Kenobi-.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -7,7 +7,7 @@ body {
 header {
     font-weight: bold;
     font-size: 50px;
-    color: #ceb940;
+    color: #ecdc05;
     text-align: left;
     margin-top: 25px;
     text-emphasis-color: darkblue;
@@ -18,7 +18,7 @@ header {
 }
 
 .main-section {
-    border: solid 10px gold;
+    border: solid 10px #ecdc05;
 
 }
 
