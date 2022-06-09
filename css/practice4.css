@@ -11,3 +11,8 @@
     text-align: center;
     font-size: 75px;
 }
+
+.card-body {
+    background-color: blue;
+
+}
