@@ -13,6 +13,7 @@
 }
 
 .card-body {
+    border: 5px solid blue;
     background-color: #8787c9;
 
 }
