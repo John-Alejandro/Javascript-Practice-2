@@ -12,8 +12,11 @@
     font-size: 75px;
 }
 
+.card {
+    border: 15px solid blue;
+}
+
 .card-body {
-    border: 5px solid blue;
     background-color: #8787c9;
 
 }
