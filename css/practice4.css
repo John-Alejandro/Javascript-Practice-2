@@ -1,8 +1,8 @@
 .main-container {
-    border: 5px solid black;
-    width: 1400px;
-    height: 1000px;
-    background-color: cornsilk;
+    border: 15px solid black;
+    width: 1325px;
+    height: 3750px;
+    background-color: #f5e0b2;
     font-family: 'Titan One', cursive;
 }
 
@@ -13,6 +13,7 @@
 }
 
 .card {
+    margin: 10px;
     border: 15px solid blue;
 }
 
