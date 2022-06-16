@@ -18,10 +18,10 @@
 
 .card {
     margin: 10px;
-    border: 15px solid blue;
+    border: 15px solid #5d5d64;
 }
 
 .card-body {
-    background-color: #8787c9;
+    background-color: #91919b;
 
 }
