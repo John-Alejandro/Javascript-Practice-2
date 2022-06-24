@@ -20,6 +20,5 @@ const search = [
 
 console.log(search);
 
-search.addEventListener('keyup', (e) => {
-    console.log(e.target.value);
+searchBar.addEventListener('keyup', (e) => {
 });
