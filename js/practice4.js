@@ -1,11 +1,9 @@
 "use strict"
-const search = document.getElementById('search');
+const searchBar = document.getElementsByName('search');
 
-search.addEventListener('keyup', (e) => {
-    console.log(e.target.value);
-});
 
-const movies = [
+
+const search = [
     {name: "TOP GUN"},
     {name: "TOP GUN: MAVERICK"},
     {name: "MISSION IMPOSSIBLE"},
@@ -20,4 +18,8 @@ const movies = [
     {name: "WAR OF THE WORLDS"},
 ];
 
-console.log(movies);
+console.log(search);
+
+search.addEventListener('keyup', (e) => {
+    console.log(e.target.value);
+});
