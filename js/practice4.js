@@ -1,5 +1,5 @@
 "use strict"
-const searchBar = document.getElementsByName('search');
+// const searchBar = document.getElementsByName('search');
 
 
 
@@ -24,16 +24,23 @@ const searchInput = document.getElementById("searchBox");
 const list = document.getElementById("list");
 
 function setList(group){
-    for (let movie of group){
+    for (let movies of group){
         const item =document.createElement("li");
         const link = document.createElement("a");
         link.innerText = movie.name;
         link.href = '/url/to/movie';
     }
-    if (group.legth === 0){
+    if (group.length === 0){
         noResults();
     }
 }
+
+function clearList(){
+    while(list.firstChild) {
+        list.removeChild(list.firstElementChild);
+    }
+}
+
 function noResults(){
     const item = document.createElement("li");
     const text = document.createTextNode("No results found");
@@ -47,9 +54,7 @@ searchInput.addEventListener("input", (event) => {
     if (value && value.length > 0) {
         value = value.trim();
         setList(movies.filter(name => {
-            return movie.name.includes(value);
+            return movies.name.includes(value);
         }));
     }
-});
-searchBar.addEventListener('keyup', (e) => {
 });
