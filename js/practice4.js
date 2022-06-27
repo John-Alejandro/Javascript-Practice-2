@@ -28,7 +28,7 @@ function setList(group){
         const item =document.createElement("li");
         const link = document.createElement("a");
         link.innerText = movie.name;
-        link.href = '/url/to/movie';
+        link.href = '/url/to/profile';
     }
     if (group.length === 0){
         noResults();
@@ -51,6 +51,7 @@ function noResults(){
 searchInput.addEventListener("input", (event) => {
     let value = event.target.value;
     clearList();
+
     if (value && value.length > 0) {
         value = value.trim();
         setList(movies.filter(name => {
