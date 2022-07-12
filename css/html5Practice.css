@@ -2,11 +2,9 @@
     font-weight: bold;
 }
 #nav {
-    background-color: crimson;
     border: 10px solid crimson;
 }
 #main {
-    background-color: blue;
     border: 10px solid blue;
 
 }
