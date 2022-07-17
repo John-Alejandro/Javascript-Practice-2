@@ -1,19 +1,26 @@
 #title {
     font-weight: bold;
     text-align: center;
-    margin: 5px;
+    margin-bottom: 25px;
 }
 #nav {
     border: 10px solid crimson;
+    margin: 10px;
 }
 #main {
     border: 10px solid blue;
+    margin: 10px;
+
 }
 #mid {
     border: 10px solid green;
+    margin: 10px;
+
 }
 #article {
     border: 10px solid rebeccapurple;
+    margin: 10px;
+
 }
 #article {
     border: 10px solid yellow;
