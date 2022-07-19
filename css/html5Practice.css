@@ -10,7 +10,6 @@ section {
     border: 10px solid crimson;
     margin: 10px;
     font-weight: bold;
-    float: left;
 }
 #main {
     border: 10px solid blue;
