@@ -14,14 +14,14 @@ section {
 #main {
     border: 10px solid blue;
     margin: 10px;
-    float: right;
-
+    float: left;
+    width: 50%;
 }
 #mid {
     border: 10px solid green;
     margin: 10px;
     float: left;
-
+    width: 50%;
 }
 #article {
     border: 10px solid rebeccapurple;
