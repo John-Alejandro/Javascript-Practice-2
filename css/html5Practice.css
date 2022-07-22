@@ -13,15 +13,17 @@ section {
 }
 #main {
     border: 10px solid blue;
-    margin: 10px;
+    margin: 8px;
     float: left;
     width: 50%;
+    height: 80px;
 }
 #mid {
     border: 10px solid green;
-    margin: 10px;
+    margin: 5px;
     float: left;
     width: 50%;
+    height: 70px;
 }
 #article {
     border: 10px solid rebeccapurple;
