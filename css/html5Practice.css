@@ -8,6 +8,7 @@ section {
 }
 #nav {
     border: 10px solid crimson;
+    background-color: yellow;
     margin: 10px;
     font-weight: bold;
 }
@@ -33,6 +34,7 @@ section {
     margin: 10px;
 }
 footer {
+    background-color: yellow;
     margin: 10px;
 }
 
