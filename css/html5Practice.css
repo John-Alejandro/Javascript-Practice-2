@@ -7,13 +7,11 @@ section {
     display: flex;
 }
 #nav {
-    border: 10px solid crimson;
     background-color: yellow;
     margin: 10px;
     font-weight: bold;
 }
 #main {
-    border: 10px solid blue;
     background-color: lightblue;
     margin: 8px;
     float: left;
@@ -21,7 +19,6 @@ section {
     height: 80px;
 }
 #mid {
-    border: 10px solid green;
     background-color: lightgreen;
     margin: 5px;
     float: left;
@@ -29,7 +26,6 @@ section {
     height: 70px;
 }
 #article {
-    border: 10px solid rebeccapurple;
     background-color: lightpink;
     margin: 10px;
 }
