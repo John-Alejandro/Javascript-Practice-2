@@ -27,10 +27,10 @@ section {
 }
 #article {
     background-color: lightpink;
-    margin: 10px;
+    margin: 10px 0px 40px 0px;
 }
 footer {
     background-color: yellow;
-    margin: 10px;
+    margin: 30px;
 }
 
