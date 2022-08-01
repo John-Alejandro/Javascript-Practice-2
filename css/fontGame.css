@@ -6,6 +6,13 @@ header {
     font-size: 100px;
 
 }
+
+#main {
+    margin: 50px;
+  }
+#mid {
+    display: contents;
+}
  footer {
      margin: 15px;
      text-align: center;
