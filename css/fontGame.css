@@ -10,8 +10,10 @@ header {
 #main {
     margin: 50px;
   }
-#mid {
-    display: contents;
+
+img {
+    margin: 100px 275px 100px 275px;
+    position: center;
 }
  footer {
      margin: 15px;
