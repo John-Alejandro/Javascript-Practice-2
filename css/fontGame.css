@@ -12,6 +12,7 @@ header {
   }
 
 img {
+    background-color: black;
     margin: 50px 275px 50px 300px;
     position: center;
 }
