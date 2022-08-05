@@ -16,6 +16,9 @@ img {
     margin: 50px 275px 50px 300px;
     position: center;
 }
+#submit {
+    text-align: center;
+}
  footer {
      margin: 15px;
      text-align: center;
