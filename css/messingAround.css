@@ -3,3 +3,8 @@
     width: 2000px;
     height: 800px;
 }
+ #article {
+     background-color: cyan;
+     width: 500px;
+     height: 700px;
+ }
