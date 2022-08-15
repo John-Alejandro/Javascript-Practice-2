@@ -3,6 +3,11 @@
     width: 2000px;
     height: 800px;
 }
+header {
+    background-color: lightcoral;
+    width: 2000px;
+    height: 50px;
+}
  #article {
      background-color: cyan;
      width: 2000px;
@@ -12,4 +17,9 @@
      background-color: orangered;
      width: 2000px;
      height: 700px;
+ }
+ footer {
+     background-color: crimson;
+     width: 2000px;
+     height: 50px;
  }
