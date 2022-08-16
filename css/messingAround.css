@@ -7,6 +7,7 @@ header {
     background-color: lightcoral;
     width: 2000px;
     height: 50px;
+    font-weight: bolder;
 }
  #article {
      background-color: cyan;
@@ -22,4 +23,6 @@ header {
      background-color: crimson;
      width: 2000px;
      height: 50px;
+     font-weight: bolder;
+
  }
