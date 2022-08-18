@@ -1,31 +1,31 @@
 #main {
     background-color: beige;
-    width: 2000px;
+    width: 1000px;
     height: 800px;
 }
 header {
     text-align: center;
     background-color: lightcoral;
-    width: 2000px;
+    width: 1000px;
     height: 50px;
     font-weight: bolder;
 }
  #article {
      text-align: center;
-
      background-color: cyan;
-     width: 2000px;
+     width: 1000px;
      height: 700px;
  }
  #summary {
+     text-align: center;
      background-color: orangered;
-     width: 2000px;
+     width: 1000px;
      height: 700px;
  }
  footer {
      text-align: center;
      background-color: crimson;
-     width: 2000px;
+     width: 1000px;
      height: 50px;
      font-weight: bolder;
 
