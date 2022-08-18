@@ -11,6 +11,8 @@ header {
     font-weight: bolder;
 }
  #article {
+     text-align: center;
+
      background-color: cyan;
      width: 2000px;
      height: 700px;
