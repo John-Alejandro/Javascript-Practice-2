@@ -16,6 +16,9 @@ header {
      width: 1000px;
      height: 1000px;
  }
+ img {
+     border: 10px solid crimson;
+ }
  #summary {
      text-align: center;
      background-color: lightsalmon;
