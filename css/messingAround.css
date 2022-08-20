@@ -4,6 +4,7 @@
     height: 800px;
 }
 header {
+    font-family: 'Bebas Neue', cursive;
     text-align: center;
     background-color: lightcoral;
     width: 1000px;
