@@ -5,6 +5,7 @@
 }
 header {
     font-family: 'Bebas Neue', cursive;
+    font-size: larger;
     text-align: center;
     background-color: lightcoral;
     width: 1000px;
@@ -28,7 +29,7 @@ header {
  }
  footer {
      font-family: 'Bebas Neue', cursive;
-
+     font-size: larger;
      text-align: center;
      background-color: lightcoral;
      width: 1000px;
