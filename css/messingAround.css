@@ -27,6 +27,8 @@ header {
      height: 700px;
  }
  footer {
+     font-family: 'Bebas Neue', cursive;
+
      text-align: center;
      background-color: lightcoral;
      width: 1000px;
