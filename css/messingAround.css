@@ -1,6 +1,6 @@
 #main {
     background-color: beige;
-    width: 1000px;
+    width: 1500px;
     height: 800px;
 }
 header {
@@ -8,14 +8,14 @@ header {
     font-size: larger;
     text-align: center;
     background-color: lightcoral;
-    width: 1000px;
+    width: 1500px;
     height: 50px;
     font-weight: bolder;
 }
  #article {
      text-align: center;
      background-color: cyan;
-     width: 1000px;
+     width: 1500px;
      height: 800px;
  }
  img {
@@ -24,7 +24,7 @@ header {
  #summary {
      text-align: center;
      background-color: lightsalmon;
-     width: 1000px;
+     width: 1500px;
      height: 700px;
  }
  footer {
@@ -32,7 +32,7 @@ header {
      font-size: larger;
      text-align: center;
      background-color: lightcoral;
-     width: 1000px;
+     width: 1500px;
      height: 50px;
      font-weight: bolder;
 
