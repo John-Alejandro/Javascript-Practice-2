@@ -21,6 +21,9 @@ header {
  img {
      border: 10px solid crimson;
  }
+ form {
+     background-color: blue;
+ }
  #summary {
      text-align: center;
      background-color: lightsalmon;
