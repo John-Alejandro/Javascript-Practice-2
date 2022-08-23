@@ -23,6 +23,7 @@ header {
  }
  form {
      background-color: blue;
+     color: white;
  }
  #summary {
      text-align: center;
