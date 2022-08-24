@@ -24,6 +24,8 @@ header {
  form {
      background-color: blue;
      color: white;
+     font-family: 'Bebas Neue', cursive;
+
  }
  #summary {
      text-align: center;
