@@ -57,6 +57,8 @@ header {
 .wrap{
     width: 30%;
      /*position: absolute;*/
+    margin-left: 775px;
+    margin-top: 25px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
