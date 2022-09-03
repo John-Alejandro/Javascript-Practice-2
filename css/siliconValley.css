@@ -3,5 +3,6 @@ header {
     font-size: 200px;
     text-align: center;
     font-family: 'Anton', sans-serif;
-
+    -webkit-text-stroke-width: 10px;
+    -webkit-text-stroke-color: black;
 }
