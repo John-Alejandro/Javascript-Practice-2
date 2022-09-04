@@ -6,3 +6,6 @@ header {
     -webkit-text-stroke-width: 6px;
     -webkit-text-stroke-color: black;
 }
+body {
+    background-image: url("https://images5.alphacoders.com/107/thumb-1920-1071923.jpg");
+}
