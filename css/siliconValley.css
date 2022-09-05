@@ -9,6 +9,15 @@ header {
 body {
     background-image: url("https://images5.alphacoders.com/107/thumb-1920-1071923.jpg");
 }
+
+#main {
+    color: crimson;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    -webkit-text-stroke-width: 5px;
+    -webkit-text-stroke-color: black;
+}
 footer {
     color: crimson;
     font-size: 50px;
