@@ -6,9 +6,13 @@ header {
     -webkit-text-stroke-width: 6px;
     -webkit-text-stroke-color: black;
 }
+
+html {
+    Border: 5px solid black;
+}
+
 body {
     background-image: url("https://images5.alphacoders.com/107/thumb-1920-1071923.jpg");
-    Border: 5px solid black;
 }
 
 #main {
@@ -19,6 +23,7 @@ body {
     -webkit-text-stroke-width: 5px;
     -webkit-text-stroke-color: black;
 }
+
 footer {
     color: crimson;
     font-size: 75px;
