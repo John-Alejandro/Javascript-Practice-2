@@ -18,7 +18,7 @@ body {
 
 #main {
     color: crimson;
-    font-size: 75px;
+    font-size: 100px;
     text-align: center;
     font-family: 'Anton', sans-serif;
     -webkit-text-stroke-width: 5px;
@@ -27,7 +27,7 @@ body {
 
 footer {
     color: crimson;
-    font-size: 75px;
+    font-size: 100px;
     text-align: center;
     font-family: 'Anton', sans-serif;
     -webkit-text-stroke-width: 5px;
