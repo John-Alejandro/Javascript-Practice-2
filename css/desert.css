@@ -23,8 +23,8 @@
 
 body {
     background-color: black;
-    width: max-content;
-    height: max-content;
+    width: 3000px;
+    height: 1000px;
 }
 .css-text-mask {
     text-align: center;
