@@ -8,9 +8,11 @@ body {
 }
 nav {
     background-color: yellow;
+    height: 250px;
 }
 article {
     background-color: #6b4f45;
+    height: 250px;
 }
 footer {
     background-color: #4c7ebe;
