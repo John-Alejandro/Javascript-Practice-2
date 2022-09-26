@@ -7,13 +7,14 @@ body {
     background-color: cyan;
 }
 nav {
+    list-style-type: none;
+
     background-color: yellow;
     height: 250px;
     width: 500px;
     align-content: center;
 }
 article {
-    list-style-type: none;
     background-color: #6b4f45;
     height: 350px;
     align-content: center;
