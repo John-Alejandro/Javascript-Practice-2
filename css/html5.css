@@ -15,7 +15,15 @@ nav {
 article {
     background-color: #6b4f45;
     height: 350px;
+    align-content: center;
+
+}
+
+img {
+    margin: 50px;
 }
 footer {
     background-color: #4c7ebe;
+    align-content: center;
+
 }
