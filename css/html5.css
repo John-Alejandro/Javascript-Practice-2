@@ -8,7 +8,7 @@ body {
 }
 nav {
     list-style-type: none;
-
+    margin-left: 395px;
     background-color: yellow;
     height: 250px;
     width: 500px;
