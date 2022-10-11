@@ -6,3 +6,6 @@ h1 {
     font-size: 100px;
     color: yellow;
 }
+img {
+    border: 15px solid yellow;
+}
