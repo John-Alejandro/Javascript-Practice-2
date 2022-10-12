@@ -1,6 +1,7 @@
 body {
     background-color: #1d5454;
     text-align: center;
+    border: 15px solid yellow;
 }
 h1 {
     font-size: 100px;
