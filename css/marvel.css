@@ -3,9 +3,14 @@ body {
     font-family: 'Anton', sans-serif;
     text-align: center;
     font-size: 200px;
-    color: #2f2f9b;
+}
+
+title {
+    font-size: 50px;
+    color: #000000;
 }
 h2 {
     color: crimson;
+    color: #2f2f9b;
 
 }
