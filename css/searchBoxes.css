@@ -1,6 +1,9 @@
 html {
     background-color: blue;
 }
+form {
+    border: 5px yellow solid;
+}
 label {
     color: white;
 }
