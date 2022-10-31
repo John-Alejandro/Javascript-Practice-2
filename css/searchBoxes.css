@@ -2,6 +2,7 @@ html {
     background-color: blue;
 }
 form {
+    text-align: center;
     border: 5px yellow solid;
 }
 label {
