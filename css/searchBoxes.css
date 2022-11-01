@@ -2,12 +2,15 @@ html {
     background-color: blue;
 }
 form {
+    margin: 5px;
     text-align: center;
     border: 5px yellow solid;
 }
 label {
+    margin: 5px;
     color: white;
 }
 input {
+    margin: 5px;
     background-color: white;
 }
