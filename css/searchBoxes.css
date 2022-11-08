@@ -17,7 +17,11 @@ input {
 #fname {
     background-color: #00ff0d;
 
-}
+}#lname {
+     background-color: #00ff0d;
+
+ }
+
 #ok {
     background-color: red;
 }
