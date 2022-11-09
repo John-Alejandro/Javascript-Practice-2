@@ -21,6 +21,12 @@ input {
      background-color: #00ff0d;
 
  }
+ #fname1 {
+     background-color: yellow;
+ }
+#lname1 {
+    background-color: yellow;
+}
 
 #ok {
     background-color: red;
