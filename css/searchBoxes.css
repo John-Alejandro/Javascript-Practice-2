@@ -27,7 +27,9 @@ input {
 #lname1 {
     background-color: yellow;
 }
-
+#fname2 {
+    background-color: #a188c4;
+}
 #ok {
     background-color: red;
 }
