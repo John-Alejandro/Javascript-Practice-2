@@ -30,6 +30,9 @@ input {
 #fname2 {
     background-color: #a188c4;
 }
+#search {
+    background-color: cyan;
+}
 #ok {
     background-color: red;
 }
