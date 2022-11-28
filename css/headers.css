@@ -4,4 +4,5 @@ html {
 }
 h1 {
     color: crimson;
+    border: 5px solid black;
 }
