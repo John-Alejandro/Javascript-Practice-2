@@ -39,3 +39,8 @@ p {
     font-family: 'Slackey', cursive;
     font-size:200px;
 }
+footer {
+    background-color: #5252e0 ;
+    text-align: center;
+    color: white;
+}
