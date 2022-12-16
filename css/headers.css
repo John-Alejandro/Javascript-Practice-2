@@ -5,8 +5,7 @@ html {
 
 #header {
     background-color: #5252e0;
-    width: 1500px;
-    height: 25px;
+    height: 50px;
 }
 h1 {
     color: crimson;
@@ -43,4 +42,5 @@ footer {
     background-color: #5252e0 ;
     text-align: center;
     color: white;
+    height: 50px;
 }
