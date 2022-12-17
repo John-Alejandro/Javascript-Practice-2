@@ -6,6 +6,8 @@ html {
 #header {
     background-color: #5252e0;
     height: 50px;
+    text-align: center;
+    color: white;
 }
 h1 {
     color: crimson;
