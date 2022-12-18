@@ -23,6 +23,7 @@ p {
 #second {
     font-family: 'Permanent Marker', cursive;
     font-size:60px;
+    text-shadow: black;
 }
 #third {
     font-family: 'Paytone One', sans-serif;
