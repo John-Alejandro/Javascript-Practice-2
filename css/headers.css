@@ -34,8 +34,10 @@ p {
     font-size:150px;
 }
 #fifth {
-    font-family: 'Faster One', cursive;
-    font-size:175px;
+    /*font-family: 'Faster One', cursive;*/
+    font-size:50px;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+
 }
 #sixth {
     font-family: 'Slackey', cursive;
