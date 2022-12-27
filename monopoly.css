@@ -3,8 +3,11 @@ body {
     background-image: url("https://www.saic.edu/150/sites/default/files/Monopoly.jpg");
     background-repeat: no-repeat;
     background-size: 1000px;
-    background-position: initial;
+    background-position: center;
+    margin-top: 700px;
 }
 header {
     text-align: center;
+    color: crimson;
+    font-size: larger;
 }
