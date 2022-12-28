@@ -1,5 +1,5 @@
 body {
-    background-color: cornsilk;
+    background-color: blue;
     background-image: url("https://www.saic.edu/150/sites/default/files/Monopoly.jpg");
     background-repeat: no-repeat;
     background-size: 1000px;
@@ -9,5 +9,5 @@ body {
 header {
     text-align: center;
     color: crimson;
-    font-size: larger;
+    font-size: 50px;
 }
