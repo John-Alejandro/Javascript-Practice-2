@@ -3,4 +3,6 @@ body {
 }
 header {
     color: purple;
+    text-align: center;
+    font-size: 100px;
 }
