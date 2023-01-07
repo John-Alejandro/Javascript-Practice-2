@@ -6,6 +6,13 @@ header {
     text-align: center;
     font-size: 80px;
 }
+
+main {
+    color: purple;
+    text-align: center;
+    font-size: 10px;
+}
+
 footer {
     color: purple;
     text-align: center;
