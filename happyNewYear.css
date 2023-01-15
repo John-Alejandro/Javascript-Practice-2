@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    border: 10px solid crimson;
 }
 header {
     color: crimson;
