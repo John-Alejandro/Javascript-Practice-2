@@ -11,6 +11,7 @@ main {
     margin: 0px 0px -75px 10px;
 }
 ul {
+    text-align: center;
     color: red;
     font-size: 25px;
 }
