@@ -1,21 +1,25 @@
 body {
     background-color: black;
 }
+
 header {
     text-align: center;
     margin-top:50px ;
     color: red;
     font-size: 250px;
 }
+
 main {
     text-align: center;
     color: red;
     margin: 0px 0px -75px 10px;
     font-size: 25px;
 }
+
 p {
     color: red;
 }
+
 ul {
     text-align: center;
     color: red;
