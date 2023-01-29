@@ -16,11 +16,15 @@ main {
 }
 
 p {
-    color: red;
+    background-color: red;
 }
 
 ul {
     text-align: center;
     color: red;
     font-size: 25px;
+}
+
+footer {
+    background-color: red;
 }
