@@ -25,6 +25,10 @@ ul {
     font-size: 25px;
 }
 
+img {
+    border: 5px red solid;
+}
+
 footer {
     background-color: red;
 }
