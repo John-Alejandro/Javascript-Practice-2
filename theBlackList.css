@@ -26,7 +26,8 @@ ul {
 }
 
 img {
-    border: 5px red solid;
+    align-items: center;
+    border: 3px red solid;
 }
 
 footer {
