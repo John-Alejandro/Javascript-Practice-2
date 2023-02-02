@@ -28,6 +28,7 @@ ul {
 img {
     align-items: center;
     border: 3px red solid;
+    size: inherit;
 }
 
 footer {
