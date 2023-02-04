@@ -27,9 +27,12 @@ ul {
 }
 
 img {
+    /*float: left;*/
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
     align-items: center;
     border: 3px red solid;
-    size: inherit;
 }
 
 footer {
