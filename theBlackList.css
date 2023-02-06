@@ -32,6 +32,7 @@ img {
     object-fit: cover;
     align-items: center;
     border: 3px red solid;
+    margin-top: 10px;
 }
 
 footer {
