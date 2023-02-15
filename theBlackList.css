@@ -35,6 +35,9 @@ img {
     margin-top: 10px;
 }
 
+#bad1 {
+    border: 3px blue solid;
+}
 footer {
     background-color: red;
 }
