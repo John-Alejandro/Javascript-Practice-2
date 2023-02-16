@@ -38,6 +38,12 @@ img {
 #bad1 {
     border: 3px blue solid;
 }
+
+#bad2 {
+    border: 3px blue solid;
+}
+
+
 footer {
     background-color: red;
 }
