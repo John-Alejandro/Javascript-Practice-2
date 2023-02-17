@@ -50,7 +50,9 @@ img {
     border: 3px blue solid;
 }
 
-
+#l {
+    color: blue;
+}
 
 footer {
     background-color: red;
