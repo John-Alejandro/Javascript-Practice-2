@@ -50,7 +50,10 @@ img {
 #bad4 {
     border: 3px blue solid;
 }
-
+#bad5 {
+    border: 3px green solid;
+    color: green;
+}
 #l {
     color: blue;
 }
