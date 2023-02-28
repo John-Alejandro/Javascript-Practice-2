@@ -15,7 +15,9 @@ main {
     font-size: 25px;
 }
 
-
+#cast {
+    color: red;
+}
 p {
     background-color: red;
 }
