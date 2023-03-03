@@ -34,7 +34,7 @@ img {
     height: 100px;
     object-fit: cover;
     align-items: center;
-    border: 3px blue solid;
+    border: 3px orangered solid;
     margin-top: 10px;
 }
 
