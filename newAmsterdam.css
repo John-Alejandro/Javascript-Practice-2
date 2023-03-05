@@ -2,6 +2,16 @@ html {
     background-color: cyan;
 }
 
-img {
+#title {
     image-rendering: auto;
+
+}
+
+#cast {
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+    align-items: center;
+    border: 5px blue solid;
+    margin-top: 10px;
 }
