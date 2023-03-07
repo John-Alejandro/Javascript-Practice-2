@@ -3,7 +3,8 @@ html {
 }
 
 #title {
-    image-rendering: auto;
+    object-fit: cover;
+    align-items: center;
 
 }
 
@@ -22,6 +23,7 @@ img {
 }
 h3 {
     object-fit: cover;
+    align-items: center;
     text-align: center;
     color: blue;
 }
