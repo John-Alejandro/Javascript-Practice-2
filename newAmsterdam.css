@@ -15,7 +15,13 @@ html {
     border: 5px blue solid;
     margin-top: 10px;
 }
+
+img {
+    object-fit: cover;
+    align-items: center;
+}
 h3 {
+    object-fit: cover;
     text-align: center;
     color: blue;
 }
