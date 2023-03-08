@@ -18,8 +18,13 @@ html {
 }
 
 img {
+    width:  100px;
+    height: 100px;
     object-fit: cover;
     align-items: center;
+    border: 5px orangered solid;
+    margin-top: 10px;
+
 }
 h3 {
     object-fit: cover;
