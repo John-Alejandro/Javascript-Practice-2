@@ -21,7 +21,7 @@ img {
     object-fit: cover;
     border: 5px orangered solid;
     margin-top: 10px;
-
+    align-items: center;
 }
 h3 {
     object-fit: cover;
