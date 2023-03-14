@@ -4,7 +4,7 @@ html {
 
 #title {
     object-fit: cover;
-
+    align-items: center;
 }
 
 #cast {
