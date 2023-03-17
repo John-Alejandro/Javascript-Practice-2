@@ -3,7 +3,7 @@ html {
 }
 
 #title {
-    object-fit: cover;
+    /*object-fit: cover;*/
     /*align-items: center;*/
 }
 
@@ -18,7 +18,7 @@ html {
 /*}*/
 
 main {
-    position: center;
+    /*position: center;*/
 }
 
 img {
@@ -27,8 +27,7 @@ img {
     object-fit: cover;
     border: 5px orangered solid;
     margin-top: 10px;
-    align-items: center;
-    /*text-align: center;*/
+    align-content: center;
 }
 h3 {
     object-fit: cover;
