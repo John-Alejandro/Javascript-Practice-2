@@ -4,21 +4,21 @@ html {
 
 #title {
     object-fit: cover;
-    align-items: center;
-}
-
-#cast {
-    width:  100px;
-    height: 100px;
-    object-fit: cover;
-    border: 5px blue solid;
-    margin-top: 10px;
     /*align-items: center;*/
-
 }
+
+/*#cast {*/
+/*    width:  100px;*/
+/*    height: 100px;*/
+/*    object-fit: cover;*/
+/*    border: 5px blue solid;*/
+/*    margin-top: 10px;*/
+/*    !*align-items: center;*!*/
+
+/*}*/
 
 main {
-    /*position: center;*/
+    position: center;
 }
 
 img {
@@ -28,7 +28,7 @@ img {
     border: 5px orangered solid;
     margin-top: 10px;
     align-items: center;
-    text-align: center;
+    /*text-align: center;*/
 }
 h3 {
     object-fit: cover;
