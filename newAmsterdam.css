@@ -21,14 +21,14 @@ main {
     /*position: center;*/
 }
 
-/*img {*/
-/*    width:  100px;*/
-/*    height: 100px;*/
-/*    object-fit: cover;*/
-/*    border: 5px orangered solid;*/
-/*    margin-top: 10px;*/
-/*    align-content: center;*/
-/*}*/
+img {
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+    border: 5px orangered solid;
+    margin-top: 10px;
+    align-content: center;
+}
 h3 {
     object-fit: cover;
     text-align: center;
