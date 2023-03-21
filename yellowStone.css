@@ -5,4 +5,5 @@ body {
     background-position: center;
     margin-top: 1000px;
     background-size: cover;
+    opacity: 50;
 }
