@@ -1,4 +1,5 @@
 body {
+    margin-bottom: -250px;
     background-color: black;
     background-image: url("https://cdn.shopify.com/s/files/1/0548/6493/7121/products/YS-DRlogo-ATT-56-100015-RO_1800x1800.png?v=1655735135");
     background-repeat: no-repeat;
@@ -9,6 +10,7 @@ body {
 }
 
 img {
+    margin-top: -10px;
     width: 80px;
     height: 125px;
 }
