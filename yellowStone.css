@@ -1,15 +1,15 @@
-/*body {*/
-/*    margin-bottom: -255px;*/
-/*    background-color: black;*/
-/*    !*background-image: url("https://cdn.shopify.com/s/files/1/0548/6493/7121/products/YS-DRlogo-ATT-56-100015-RO_1800x1800.png?v=1655735135");*!*/
-/*    background-repeat: no-repeat;*/
-/*    background-position: center;*/
-/*    margin-top: 900px;*/
-/*    background-size: cover;*/
-/*}*/
+body {
+    margin-bottom: -255px;
+    background-color: black;
+    /*background-image: url("https://cdn.shopify.com/s/files/1/0548/6493/7121/products/YS-DRlogo-ATT-56-100015-RO_1800x1800.png?v=1655735135");*/
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 900px;
+    background-size: cover;
+}
 
 img {
-    /*margin-top: -10px;*/
+    margin-top: -10px;
     width: 200px;
     height: 100px;
 }
