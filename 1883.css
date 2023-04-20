@@ -1,8 +1,8 @@
 
 body   {
     background-color: yellow;
-    background-image: url("https://www.google.com/search?q=1883+logo&ei=Qos3ZJzbF-ObptQP_6WKiAU&ved=0ahUKEwichLfFiKb-AhXjjYkEHf-SAlEQ4dUDCBA&uact=5&oq=1883+logo&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQgAQyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIICAAQigUQhgMyCAgAEIoFEIYDOg0IABCKBRCxAxCwAxBDOgoIABCKBRCwAxBDOg4IABCKBRCxAxCwAxCRAjoNCAAQ5AIQ1gQQsAMYAToPCC4QigUQyAMQsAMQQxgCOhIILhCKBRDUAhDIAxCwAxBDGAI6CAgAEIAEELEDOgoIABCKBRCxAxBDOgcILhCKBRBDOgcIABCKBRBDOgsIABCABBCxAxCDAToFCC4QgAQ6CwguEK8BEMcBEIAEOgIIJkoECEEYAVDGDliyFWDwGWgCcAB4AIAB2AGIAdYFkgEFMS4yLjKYAQCgAQHIARPAAQHaAQYIARABGAnaAQYIAhABGAg&sclient=gws-wiz-serp#imgrc=BjEaMEhf3IOJ3M:~:text=Paramount%20Press%20Express-,1%2C642%20%C3%97%201%2C152,-Paramount%20Press%20Express");
-    background-size: cover;
+    background-image: url("https://www.firstcomicsnews.com/wp-content/uploads/2021/11/1883-logo.png");
+    background-size: contain;
 }
 img {
     margin-top: 250px;
