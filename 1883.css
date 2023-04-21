@@ -3,6 +3,7 @@ body   {
     background-color: yellow;
     background-image: url("https://www.firstcomicsnews.com/wp-content/uploads/2021/11/1883-logo.png");
     background-size: contain;
+    background-repeat: no-repeat;
 }
 img {
     margin-top: 250px;
