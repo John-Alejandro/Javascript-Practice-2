@@ -2,6 +2,7 @@ body {
     background-image: url("https://www.101studiosco.com/user/pages/1923/1923_logo.png");
     background-repeat: no-repeat;
     background-color: black;
+    background-position: center;
 }
 img {
     border: 5px solid white;
