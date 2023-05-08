@@ -7,4 +7,6 @@ body {
 img {
     margin-top: 100px;
     border:15px double white;
+    width: 150px;
+    height: 100px;
 }
