@@ -6,6 +6,6 @@ body {
 }
 img {
     border: 12px double white;
-    width: fit-content;
-    height: fit-content;
+    width: max-content;
+    height: max-content;
 }
