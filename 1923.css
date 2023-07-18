@@ -7,5 +7,5 @@ body {
 img {
     border: 10px double white;
     width: border-box;
-    height: fit-content;
+    height: border-box;
 }
