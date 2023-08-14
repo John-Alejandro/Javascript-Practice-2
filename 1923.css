@@ -8,4 +8,5 @@ img {
     border: 20px double white;
     width: 175px;
     height: 175px;
+    object-fit: cover;
 }
