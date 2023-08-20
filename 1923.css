@@ -10,6 +10,11 @@ img {
     height: 175px;
     object-fit: cover;
 }
+.search {
+    text-align: center;
+
+}
+
 .active {
     text-align: center;
 }
