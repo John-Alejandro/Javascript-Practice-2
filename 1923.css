@@ -11,5 +11,5 @@ img {
     object-fit: cover;
 }
 .active {
-    position: center
+    text-align: center;
 }
