@@ -11,7 +11,7 @@ img {
     object-fit: cover;
     color: white;
     font-size-adjust: inherit;
-    font: bold;
+    size: auto;
 }
 .search {
     text-align: center;
