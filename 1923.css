@@ -4,7 +4,6 @@ body {
     background-color: black;
     background-position: center;
     size: auto;
-
 }
 img {
     border: 28px double white;
@@ -16,7 +15,6 @@ img {
 }
 .search {
     text-align: center;
-
 }
 
 .active {
