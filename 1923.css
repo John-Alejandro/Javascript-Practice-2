@@ -3,6 +3,8 @@ body {
     background-repeat: no-repeat;
     background-color: black;
     background-position: center;
+    size: auto;
+
 }
 img {
     border: 28px double white;
@@ -11,7 +13,6 @@ img {
     object-fit: cover;
     color: white;
     font-size-adjust: inherit;
-    size: auto;
 }
 .search {
     text-align: center;
