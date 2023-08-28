@@ -10,7 +10,7 @@ img {
     height: 175px;
     object-fit: cover;
     color: white;
-    font-size-adjust: inherit;
+    font-size: larger;
     size: auto;
 }
 .search {
