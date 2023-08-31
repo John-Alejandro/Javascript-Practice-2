@@ -10,7 +10,10 @@ img {
     height: 175px;
     object-fit: cover;
     color: white;
+}
+.active {
     font-size: xx-large;
+
 }
 .search {
     text-align: center;
