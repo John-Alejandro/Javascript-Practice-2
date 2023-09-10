@@ -6,8 +6,8 @@ body {
 }
 img {
     border: 28px double white;
-    width: 175px;
-    height: 175px;
+    /*width: 175px;*/
+    /*height: 175px;*/
     object-fit: cover;
     color: white;
 }
