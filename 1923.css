@@ -9,7 +9,7 @@ img {
     width: 175px;
     height: 175px;
     object-fit: cover;
-    color: white;
+    color: yellow;
 }
 .active {
     font-size: xx-large;
